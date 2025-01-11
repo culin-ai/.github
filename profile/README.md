@@ -1,4 +1,8 @@
+# Culin AI
 ## Hi there 👋
+
+## AI Detection Application 
+Culin AI on Appstore
 
 <!--
 
